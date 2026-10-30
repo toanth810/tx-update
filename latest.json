@@ -1,0 +1,9 @@
+{
+ "version": "2.8",
+ "file": "TRADE_FX.exe",
+ "size": 47898478,
+ "sha256": "47a907d04107a1e810d59a307092e6731457bc8417896209c747b085aaa34699",
+ "notes": "Sửa lỗi MetaTrader5._core sau khi tự cập nhật",
+ "released": "2026-10-30T14:51",
+ "sig": "5gt6X5Il3ky4ko6sjC9gt/pMB4iUEi7TVBwnTwejC8B8erx6kZNKzjNmsH1EXNzdwaGiFw/j/0ItwFxNnYb3Dg=="
+}
